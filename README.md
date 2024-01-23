@@ -9,3 +9,5 @@ that collects every event that happens on the machines on the network. Among the
 many events collected it records each time a user logs in or out of a computer. 
 With this information, write a script that generates a report of which 
 users are logged in to which machines at that time.
+
+Currently only works with a given data set in the program. Excel implementation coming soon
